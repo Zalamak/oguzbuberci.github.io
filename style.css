@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: #282A41 ;
+	color:white; 
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+     }
+h1.divbasligi{
+	text-align: center;
+	background-color: #494276;
+	padding: inherit
+		
+	}
+
+div.site{
+	background-color: #494276;
+	overflow: hidden;
+	padding: 2px;
+	border-radius: 10px	
+	}
+
+
+a.site{	
+	color:black;
+	float:none;
+	background-color: #FFDA31;
+	display:inline-flex ;
+	padding: 5px;
+	border-radius: 8px;
+	text-decoration: none;
+	font-weight: 650;
+}
+
+a.site2{	
+	color:white;
+	display:inline-flex ;
+	padding: 5px;
+	border-radius: 8px;
+	text-decoration: none;
+	font-weight: 650;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+img.calisma{
+	width: 10%;
+	border: medium;
+	border-color: white;
+}
+
+a.baglanti{
+	color:#8F94FF;
+	border: none; 
+	display: inline;
+	padding: 5px;
+	border-radius: 8px;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+div.baslik{
+    background-color: #494276;
+    padding-left: 229px;
+    padding-right: 229px;
+    margin-top: 29px;
+}
+div.alan{
+	width: 50%;
+    align-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px -1px rgba(0, 0, 0, 0.1);
+    border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border: thick;
+	border-color: black;
+}
+
+div.alan2{
+	padding: 20px;
+	width: 50%;
+    align-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px -1px rgba(0, 0, 0, 0.1);
+    border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border: thick;
+	border-color: black;
+	
+}
+header{
+	background-color: #494276;
+	
+	
+	
+}
